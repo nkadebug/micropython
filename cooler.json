@@ -1,0 +1,27 @@
+{
+    "ap":{
+            "ssid":"esp01s-1",
+            "pwd":"esp01s-1",
+            "hidden":true
+        },
+    "sta":[
+            {
+                "ssid":"nka_mobile",
+                "pwd":"nka.1990"
+            },
+	    {
+		"ssid":"juhi raj",
+		"pwd":"12345678"
+	    }
+        ],
+    "sta_retry":10,
+    "seq":{
+            "20:0":"on",
+	    "21:30":"off",
+	    "22:14":"off",
+            "22:15":"on",
+            "5:0":"off",
+            "13:0":"on",
+	    "16:0":"off"
+        }
+}
